@@ -23,3 +23,17 @@
 
 ## PHP Forum Software
 - Disucz
+
+## PHP Dev Tools
+- PHPUnit
+- PHPStrom
+
+## Version Control
+- Git
+- SVN
+
+
+## Server OS
+- Unix (Mac, HP-UNIX, FreeBSD, OpenBSD, NetBSD ...)
+- Linux (RedHat, CentOS, Ubuntu)
+- Windows
